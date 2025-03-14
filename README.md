@@ -63,5 +63,3 @@ The total weight is: 7
 - Support for **real-time network traffic updates**.
 - Implementation of **Hybrid Routing Algorithms**.
 - Integration with **graph visualization tools** for better path representation.
-
----
